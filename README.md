@@ -4,7 +4,7 @@ This template writed for [LuaStakky](https://github.com/LuaStakky/LuaStakky) pro
 
 ## What include in this template?
 
-* Simple build system.
+* Trivial tarantool app.
 * Serving static from `WebData\`.
 
 ## For deploy use:
