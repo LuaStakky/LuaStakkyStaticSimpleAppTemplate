@@ -1,0 +1,9 @@
+debug: true
+services:
+  Nginx:
+    net:
+      http_port: 2086
+      https_port: 2087
+  Tarantool:
+    net:
+      iproto_port: 3302
